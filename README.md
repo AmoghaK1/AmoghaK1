@@ -3,10 +3,10 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=160&section=header&animation=fadeIn" width="100%"/> -->
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=100&section=header&animation=fadeIn" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=200&section=header&text=✨%20Hi,%20i'm%20Amogha%20✨&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
 <!-- TITLE -->
-<h1>✨ Hi, i'm Amogha 🎶✨ </h1>
+<!-- <h1>✨ Hi, i'm Amogha ✨ </h1> -->
 
 <br/>
 
