@@ -71,23 +71,6 @@ Open to collabs, cool ideas, and people who appreciate a good commit message. ðŸ
 
 ---
 
-## ðŸŽ¼ Featured Projects
-
-> *My greatest hits album. Streaming now.*
-
-<div align="center">
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AmoghaK1&repo=User-Management-System-NDA&theme=radical&bg_color=111111&title_color=1DB954&text_color=b3b3b3&icon_color=1DB954&border_color=1a1a1a)](https://github.com/AmoghaK1/User-Management-System-NDA)
-&nbsp;
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AmoghaK1&repo=Virtual_Stylist_ML_Model&theme=radical&bg_color=111111&title_color=1DB954&text_color=b3b3b3&icon_color=1DB954&border_color=1a1a1a)](https://github.com/AmoghaK1/Virtual_Stylist_ML_Model)
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AmoghaK1&repo=LLM-Powered-Query-Retrieval-System&theme=radical&bg_color=111111&title_color=1DB954&text_color=b3b3b3&icon_color=1DB954&border_color=1a1a1a)](https://github.com/AmoghaK1/LLM-Powered-Query-Retrieval-System)
-&nbsp;
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AmoghaK1&repo=Clone-scribbl.io&theme=radical&bg_color=111111&title_color=1DB954&text_color=b3b3b3&icon_color=1DB954&border_color=1a1a1a)](https://github.com/AmoghaK1/Clone-scribbl.io)
-
-</div>
----
-
 ## ðŸ“Š GitHub Stats
 
 > *My streaming numbers. Don't judge the gaps â€” those were "thinking" phases.*
@@ -126,15 +109,11 @@ Open to collabs, cool ideas, and people who appreciate a good commit message. ðŸ
   <img src="https://img.shields.io/badge/GitHub-AmoghaK1-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/amogha-khare/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1DB954?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-@you-1DB954?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amogha.khare@gmail.com">
   <img src="https://img.shields.io/badge/Email-Slide_into_my_inbox-1DB954?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
 </a>
 
@@ -143,10 +122,6 @@ Open to collabs, cool ideas, and people who appreciate a good commit message. ðŸ
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="spotify gif"/>
 
 <br/>
-
-<!-- SPOTIFY NOW PLAYING WIDGET â€” add your Spotify UID -->
-<a href="https://spotify-github-profile.kittinanx.com">
-</a>
 </div>
 
 ---
