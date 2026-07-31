@@ -22,7 +22,30 @@ deep into markets: Pine Script indicators, backtesting, on-chain data.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<!-- <samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp> -->
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="12" style="border:none; background:transparent;">
+<tr>
+  <td align="center" style="border:none; padding: 0 24px;">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4" /><br/>
+    <sub> AI / ML</sub>
+  </td>
+  <td align="center" style="border:none; padding: 0 24px;">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs&theme=dark&perline=4" /><br/>
+    <sub> Full Stack</sub>
+  </td>
+  <td align="center" style="border:none; padding: 0 24px;">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&theme=dark&perline=4" /><br/>
+    <sub> Data & Infra</sub>
+  </td>
+  <td align="center" style="border:none; padding: 0 24px;">
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=dark&perline=4" /><br/>
+    <sub> Daily Drivers</sub>
+  </td>
+</tr>
+</table>
+</div>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
