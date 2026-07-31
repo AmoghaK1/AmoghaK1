@@ -1,148 +1,75 @@
-<!-- SPOTIFY THEMED README — AmoghaK1 -->
-
 <div align="center">
 
-<!-- HEADER WAVE -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=100&section=header&animation=fadeIn" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=200&section=header&text=✨%20Hi,%20i'm%20Amogha%20✨&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
-<!-- TITLE -->
-<!-- <h1>✨ Hi, i'm Amogha ✨ </h1> -->
+<img src="./ascii.svg" width="460" alt="Amogha Khare"/>
 
-<br/>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<!-- SPOTIFY-STYLE BADGE ROW -->
-<img src="https://img.shields.io/badge/Now_Playing-Amogha.mp3-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Online_✅-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Mood-Ecstatic_🎧-1DB954?style=for-the-badge"/>
-
-<br/><br/>
+[Portfolio](https://living-portfolio-two.vercel.app) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/quirkless_amogha/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/amogha-khare/) &nbsp;·&nbsp;
+[email](mailto:amogha.khare@gmail.com)
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## 🎧 About Me
+> CS student at San Francisco State, in the SF Bay Area.<br>
+> Small, sharp tools over big vague ideas.
 
-```
-▶  Playing: Amogha Khare Unplugged                              
-   AI / ML Developer & Full Stack Builder  ──────────●───  2:34 / 4:20
-```
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="lofi coding vibe gif"/>
-Hey! I'm Amogha — a developer from India who thinks in Python, dreams in TypeScript, and occasionally yells at model loss curves.
-<br/>
-I build things that hopefully work in production (keyword: hopefully). I'm somewhere at the intersection of AI, full-stack web dev, and "wait let me just try one more thing" energy.
-<br/>
-When I'm not coding, I'm probably listening to music, pretending I'll finish a side project, or explaining to my laptop why it needs to be faster.
-<br/>
-Open to collabs, cool ideas, and people who appreciate a good commit message. 🤝
-<br/>
+I build fast, test on real users, and kill what doesn't work. Right now that's<br>
+[NDA](https://github.com/AmoghaK1/User-Management-System-NDA) — an AI short-form video editor that runs in the browser. Also<br>
+deep into markets: Pine Script indicators, backtesting, on-chain data.
 
-"If it works, don't touch it!" — me, always.
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<br clear="right"/>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
----
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-## 🎵 My Tech Stack
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="12" style="border:none; background:transparent;">
-<tr>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4" /><br/>
-    <sub> AI / ML</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs&theme=dark&perline=4" /><br/>
-    <sub> Full Stack</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&theme=dark&perline=4" /><br/>
-    <sub> Data & Infra</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=dark&perline=4" /><br/>
-    <sub> Daily Drivers</sub>
-  </td>
-</tr>
-</table>
-</div>
+**[virtual-stylist](https://github.com/AmoghaK1/Virtual_Stylist_ML_Model)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+AI short-form video editor in the browser. Auto captions with accents,<br>
+drag-and-retime editing, b-roll placement: transcript in, rendered video out.
 
----
+**[tpo-tracker](https://github.com/AmoghaK1/TPO-Tracker)** &nbsp;·&nbsp; <samp>python</samp><br>
+Describe a trading strategy in plain English, get a real backtest with<br>
+statistical validation. Exposes curve-fitting, not alpha.
 
-## 📊 GitHub Stats
+**[rag-system](https://github.com/AmoghaK1/LLM-Powered-Query-Retrieval-System)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
+Autonomous research agent for your second brain. Built solo at Nozomio<br>
+Hackathon, EF SF.
 
-> *My streaming numbers. Don't judge the gaps — those were "thinking" phases.*
+**[My Portfolio](https://living-portfolio-two.vercel.app/)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
+Particle-morph portfolio: thousands of particles reshaping between scenes.
 
-<br/>
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmoghaK1&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=1DB954&text_color=ffffff&icon_color=1DB954&border_color=1DB954&count_private=true&include_all_commits=true&border_radius=12"/>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmoghaK1&layout=compact&theme=radical&bg_color=0d0d0d&title_color=1DB954&text_color=ffffff&border_color=1DB954&border_radius=12"/>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmoghaK1&theme=radical&background=0d0d0d&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&border=1DB954&border_radius=12" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmoghaK1&theme=radical&bg_color=0d0d0d&color=1DB954&line=1DB954&point=ffffff&hide_border=false&radius=8" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🎙️ Socials
-
-> *Follow me before I become famous. Early adopter perks apply.*
-
-<div align="center">
-
-<a href="https://github.com/AmoghaK1">
-  <img src="https://img.shields.io/badge/GitHub-AmoghaK1-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/amogha-khare/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1DB954?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="mailto:amogha.khare@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Slide_into_my_inbox-1DB954?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
-</a>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="spotify gif"/>
-
-<br/>
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<br/>
-
-> *"Any sufficiently advanced bug is indistinguishable from a feature."*
-> — Amogha, probably
-
-<br/>
-
-<!-- <img src="https://media.giphy.com/media/l3fQjHugtGGGQTi5i/giphy.gif" width="180" alt="done coding gif"/> -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1DB954,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=AmoghaK1&style=flat-square&color=1DB954&label=profile+plays"/>
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
+
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
+
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
