@@ -23,7 +23,7 @@ I build fast, test on real users, and kill what doesn't work. Right now that's<b
 [Indie Chess](https://github.com/AmoghaK1/Chess-Engine) — a complete chess game coded in python. The best part<br>
 every single line is handwritten. No AI, No vibecode, just pure logic.
 
-<img src="./tech_stack_card.png" alt="tech stack">
+<img src="./tech_stack.png" alt="tech stack">
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
