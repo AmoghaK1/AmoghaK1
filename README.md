@@ -11,6 +11,8 @@
 
 </div>
 
+<img src="./hero_banner.png" alt="wolters kluwer banner"/>
+
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > Final Year AI & Data Science student at VIIT, Pune<br>
@@ -21,34 +23,7 @@ I build fast, test on real users, and kill what doesn't work. Right now that's<b
 [Indie Chess](https://github.com/AmoghaK1/Chess-Engine) — a complete chess game coded in python. The best part<br>
 every single line is handwritten. No AI, No vibecode, just pure logic.
 
-<img src="./hero_banner.png" alt="wolters kluwer banner"/>
-
-<img src="./hd-stack.svg" width="620" alt="stack"/>
-
-<!-- <samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp> -->
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="12" style="border:none; background:transparent;">
-<tr>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4" /><br/>
-    <sub> AI / ML</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs&theme=dark&perline=4" /><br/>
-    <sub> Full Stack</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&theme=dark&perline=4" /><br/>
-    <sub> Data & Infra</sub>
-  </td>
-  <td align="center" style="border:none; padding: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=dark&perline=4" /><br/>
-    <sub> Daily Drivers</sub>
-  </td>
-</tr>
-</table>
-</div>
+<img src="./tech_stack_card.png" alt="tech stack">
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
