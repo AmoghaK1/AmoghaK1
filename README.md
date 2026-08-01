@@ -18,8 +18,10 @@
 > Small, sharp tools over big vague ideas.
 
 I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[NDA](https://github.com/AmoghaK1/Chess-Engine) — a complete chess game coded in python. The best part<br>
+[Indie Chess](https://github.com/AmoghaK1/Chess-Engine) — a complete chess game coded in python. The best part<br>
 every single line is handwritten. No AI, No vibecode, just pure logic.
+
+<img src="./wk_banner.png" width="620" alt="wolters kluwer banner"/>
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
